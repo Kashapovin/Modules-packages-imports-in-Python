@@ -1,5 +1,5 @@
 # Modules-packages-imports-in-Python
-# Домашнее задание к лекции 1.«Import. Module. Package»
+# Домашнее задание к лекции «Import. Module. Package»
 
 1. Разработать **структуру** программы "Бухгалтерия". 
 - main.py;  
